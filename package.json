@@ -1,0 +1,25 @@
+{
+  "name": "express-bmi-cal-",
+  "version": "1.0.0",
+  "description": "A Simple BMI Calculator with Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nixhazel/Express-BMI-Cal-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nixhazel/Express-BMI-Cal-/issues"
+  },
+  "homepage": "https://github.com/Nixhazel/Express-BMI-Cal-#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
